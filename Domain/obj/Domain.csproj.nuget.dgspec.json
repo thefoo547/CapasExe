@@ -1,24 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jmejia\\source\\repos\\CapasExe\\Domain\\Domain.csproj": {}
+    "D:\\Repos\\VS\\CapasExe\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jmejia\\source\\repos\\CapasExe\\Domain\\Domain.csproj": {
+    "D:\\Repos\\VS\\CapasExe\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jmejia\\source\\repos\\CapasExe\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\Repos\\VS\\CapasExe\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\jmejia\\source\\repos\\CapasExe\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\jmejia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jmejia\\source\\repos\\CapasExe\\Domain\\obj\\",
+        "projectPath": "D:\\Repos\\VS\\CapasExe\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\atlasfoo\\.nuget\\packages\\",
+        "outputPath": "D:\\Repos\\VS\\CapasExe\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\jmejia\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\atlasfoo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -40,6 +41,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

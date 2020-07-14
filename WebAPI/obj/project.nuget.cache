@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jReGLQrK9Ou4AcpHBf+Qb9YHh6n2qMKHF3VQ2HGeVCuNiQtbvSlVCa2oyTz0dG2MMLbCy3ohKhXyG+bVwTQBtw==",
+  "success": true,
+  "projectFilePath": "D:\\Repos\\VS\\CapasExe\\WebAPI\\WebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\atlasfoo\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.6\\microsoft.extensions.dependencyinjection.3.1.6.nupkg.sha512",
+    "C:\\Users\\atlasfoo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.6\\microsoft.extensions.dependencyinjection.abstractions.3.1.6.nupkg.sha512",
+    "C:\\Users\\atlasfoo\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

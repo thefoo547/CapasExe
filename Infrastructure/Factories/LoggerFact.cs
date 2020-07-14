@@ -6,7 +6,7 @@ using System.Text;
 
 namespace Infrastructure.Factories
 {
-    class LoggerFactory
+    public class LoggerFact
     {
         public enum LoggerType
         {

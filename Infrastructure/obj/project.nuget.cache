@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "MV8ykXThcp5Sf5aCWLVcxI6s1AbXxZWziHI7hlIKGkYTw3ZsHEHK1zEm6nhMuqftf4qSX8LiAPdvtnGSnq91BA==",
+  "dgSpecHash": "JqR9hleyWOydCoWgM+QuUMsWoSensJEUN3WGbQBizQwh/bG+z2fXrQ6TbaSIgaONUBjiY54T4x5BrgbdVuT90A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jmejia\\source\\repos\\CapasExe\\Infrastructure\\Infrastructure.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Repos\\VS\\CapasExe\\Infrastructure\\Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\atlasfoo\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.6\\microsoft.extensions.dependencyinjection.3.1.6.nupkg.sha512",
+    "C:\\Users\\atlasfoo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.6\\microsoft.extensions.dependencyinjection.abstractions.3.1.6.nupkg.sha512",
+    "C:\\Users\\atlasfoo\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -25,7 +25,7 @@ namespace Domain
             this.repositorioResultadoTareasViewModel = repositorioResultadoTareasViewModel;
         }
 
-        public async Task Procesar()
+        public async Task Process()
         {
             try
             {

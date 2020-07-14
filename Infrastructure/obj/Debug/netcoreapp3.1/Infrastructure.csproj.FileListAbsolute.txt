@@ -1,0 +1,12 @@
+D:\Repos\VS\CapasExe\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+D:\Repos\VS\CapasExe\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+D:\Repos\VS\CapasExe\Infrastructure\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Repos\VS\CapasExe\Infrastructure\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Repos\VS\CapasExe\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csprojAssemblyReference.cache
+D:\Repos\VS\CapasExe\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+D:\Repos\VS\CapasExe\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+D:\Repos\VS\CapasExe\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CopyComplete
+D:\Repos\VS\CapasExe\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Repos\VS\CapasExe\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+D:\Repos\VS\CapasExe\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+D:\Repos\VS\CapasExe\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
